@@ -5,6 +5,8 @@
 ## 功能介绍
 自动注册账号，自动刷新本地token，解放双手。
 
+[查看技术实现细节](./README_1.md)
+
 ## 下载地址
 https://github.com/chengazhen/cursor-auto-free/releases
 
